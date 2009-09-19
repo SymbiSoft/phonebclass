@@ -1,0 +1,11 @@
+&IT
+#{"phonebook"}, (0xEA1590AF),1,2,0,IU,TYPE=SA
+:"madhacker"
+%{"madhacker"}
+[0x101F7961], 0, 0, 0, {"Series60ProductID"}
+[0x102032BE], 0, 0, 0, {"Series60ProductID"}
+[0x102752AE], 0, 0, 0, {"Series60ProductID"}
+[0x1028315F], 0, 0, 0, {"Series60ProductID"}
+(0x2000B1A0), 1, 4, 5, {"Python for S60"}
+"class_pb.pyc"-"c:\resource\class_pb.pyc"
+"listrubrica.py"-"!:\python\listrubrica.py"
